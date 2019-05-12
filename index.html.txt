@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>League of Legends</h1>
+<p>Hello Everyone, Welcome to view this website!</p>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a website who make by a gamer.</h1>
+<p>I would like introduce a little information about lol.</p>
+
+</body>
+</html>
